@@ -1,0 +1,9 @@
+D:\Codes\clientserver\clientserver\bin\Debug\clientserver.exe.config
+D:\Codes\clientserver\clientserver\bin\Debug\clientserver.exe
+D:\Codes\clientserver\clientserver\bin\Debug\clientserver.pdb
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.csprojResolveAssemblyReference.cache
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.Form1.resources
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.Properties.Resources.resources
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.csproj.GenerateResource.Cache
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.exe
+D:\Codes\clientserver\clientserver\obj\Debug\clientserver.pdb
